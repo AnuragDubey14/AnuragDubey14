@@ -15,15 +15,15 @@
 
 <h3>SKILLS -</h3>
 
-**- Language - C,Python**
-**- Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn**
-**- Data Preparation and Cleaning**
-**- Data Analysis**
-**- Data Visualization**
-**- Machine Learning**
-**- MS-Office - MS-Excel**
-**- BI Tools- PowerBI**
-**- DATABASES - MySQL**
+**- Language - C,Python**<br>
+**- Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn**<br>
+**- Data Preparation and Cleaning**<br>
+**- Data Analysis**<br>
+**- Data Visualization**<br>
+**- Machine Learning**<br>
+**- MS-Office - MS-Excel**<br>
+**- BI Tools- PowerBI**<br>
+**- DATABASES - MySQL**<br>
 **- IDE'S/EDITORS - JUPYTER NOTEBOOK, VISUAL STUDIO CODE**
 <!---
 AnuragDubey14/AnuragDubey14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

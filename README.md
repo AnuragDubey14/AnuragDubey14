@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m [Anurag Dubey](https://www.linkedin.com/in/anuragdubey14)</h1>
+<h1>- 👋 Hi, I’m <a href="https://www.linkedin.com/in/anuragdubey14">Anurag Dubey</a></h1>
 
 
 

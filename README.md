@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I’m Anurag Dubey</h1>
-![counter](https://[@anuragdu125].m.pipedream.net)
+![counter](https://[anuragdu125].m.pipedream.net)
 ###
 
 <p align="left">👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine learning concepts<br>💞️ I’m looking to collaborate on data analysis, machine learning and deep learning<br><br>SKILLS -<br><br>Language - C,Python<br>Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn<br>Data Preparation and Cleaning<br>Data Analysis<br>Data Visualization<br>Machine Learning<br>MS-Office - MS-Excel<br>BI Tools- PowerBI<br>DATABASES - MySQL, MSSQL<br>IDE'S/EDITORS - JUPYTER NOTEBOOK, VISUAL STUDIO CODE</p>

@@ -47,9 +47,9 @@
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragdubey14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragDubey14&" alt="AnuragDubey14" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragDubey14&" alt="AnuragDubey14" /></p>
 
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuragDubey14" alt="AnuragDubey14" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuragDubey14" alt="AnuragDubey14" /></a> </p>

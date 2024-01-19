@@ -6,7 +6,6 @@
 <p align="left">👀 I’m interested in Data Science<br>🌱 I’m currently learning Machine learning concepts<br>💞️ I’m looking to collaborate on data analysis, machine learning and deep learning<br><br>SKILLS -<br><br>Language - C,Python<br>Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn<br>Data Preparation and Cleaning<br>Data Analysis<br>Data Visualization<br>Machine Learning<br>MS-Office - MS-Excel<br>BI Tools- PowerBI<br>DATABASES - MySQL, MSSQL<br>IDE'S/EDITORS - JUPYTER NOTEBOOK, VISUAL STUDIO CODE</p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuragDubey14" alt="AnuragDubey14" /></a> </p>
 ###
 
 <br clear="both">
@@ -55,3 +54,5 @@
 
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuragDubey14" alt="AnuragDubey14" /></a> </p>

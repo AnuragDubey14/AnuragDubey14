@@ -41,6 +41,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="20" />
+  <img src="https://www.flaticon.com/free-icon/sql-server_5968364"/>
+  <img width="20"/>
 </div>
 
 <br clear="both">

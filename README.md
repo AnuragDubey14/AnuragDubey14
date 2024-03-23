@@ -1,4 +1,8 @@
-<h1 align="left">👋 Hi, I’m Anurag Dubey</h1>
+<h1 align="left">👋 Hi, I’m Anurag Dubey  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuragDubey14&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragDubey14" /> </p></h1> 
+
+
+
 
 
 

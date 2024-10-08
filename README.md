@@ -18,7 +18,7 @@
 <div align="left">
   <p ><b>Connect With Me - </b><a href="https://www.linkedin.com/in/anuragdubey14" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> <a href="https://x.com/Anuragdubey2003" target="_blank">
-    <img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-logo.zip" height="35" alt="X"  />
+    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X"  />
   </a></p>
   
 </div>

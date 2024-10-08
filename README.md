@@ -17,8 +17,8 @@
 
 <div align="left">
   <p ><b>Connect With Me - </b><a href="https://www.linkedin.com/in/anuragdubey14" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> <a href="https://instagram.com/anurag__dubey2?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> <a href="https://x.com/Anuragdubey2003" target="_blank">
+    <img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/x-logo.zip" height="35" alt="X"  />
   </a></p>
   
 </div>

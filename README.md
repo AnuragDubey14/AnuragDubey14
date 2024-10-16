@@ -60,4 +60,4 @@
 </div>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnuragDubey14" height="190" alt="AnuragDubey14" /></a> </p>
+<p align="center"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=AnuragDubey14&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" height="190" alt="AnuragDubey14" /></a> </p>

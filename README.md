@@ -7,7 +7,7 @@
 
 
 
-<p align="left">👀 I’m interested in Data Science<br>🌱 I’m currently learning Java concepts<br>💞️ I’m looking to collaborate on data analysis, machine learning and deep learning<br><br>SKILLS -<br><br>✨ Language - C, Python, Java<br>✨ Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, PyQt5 <br>✨ Data Preparation and Cleaning<br>✨ Data Analysis<br>✨ Data Visualization<br>✨ Machine Learning<br>✨ MS-Office - MS-Excel<br>✨ BI Tools- PowerBI<br>✨ DATABASES - MySQL, MSSQL<br>✨ IDE'S/EDITORS - JUPYTER NOTEBOOK, VISUAL STUDIO CODE</p>
+<p align="left">👀 I’m interested in Data Science<br>🌱 I’m currently learning FastAPI<br>💞️ I’m looking to collaborate on data analysis, machine learning and deep learning<br><br>SKILLS -<br><br>✨ Language - C, Python, Java<br>✨ Libraries - OS, Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, PyQt5 <br>✨ Data Preparation and Cleaning<br>✨ Data Analysis<br>✨ Data Visualization<br>✨ Machine Learning<br>✨ MS-Office - MS-Excel<br>✨ BI Tools- PowerBI<br>✨ DATABASES - MySQL, MSSQL<br>✨ IDE'S/EDITORS - JUPYTER NOTEBOOK, VISUAL STUDIO CODE</p>
 
 
 
